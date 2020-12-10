@@ -3,7 +3,7 @@
     "version": "1.16.4",
     "modLoaders": [
       {
-        "id": "forge-35.1.4",
+        "id": "forge-35.1.7",
         "primary": true
       }
     ]
@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "LTMD-1.16",
-  "version": "5.0",
+  "version": "5.1.0",
   "author": "BlueOrcWarrior",
   "files": [
     {
