@@ -11,6 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "LTMD",
+  "version": "5.3.4",
   "author": "",
   "files": [
     {
@@ -176,16 +177,6 @@
     {
       "projectID": 79287,
       "fileID": 3289488,
-      "required": true
-    },
-    {
-      "projectID": 460835,
-      "fileID": 3297540,
-      "required": true
-    },
-    {
-      "projectID": 278141,
-      "fileID": 3291850,
       "required": true
     },
     {
@@ -529,11 +520,6 @@
       "required": true
     },
     {
-      "projectID": 252239,
-      "fileID": 3292950,
-      "required": true
-    },
-    {
       "projectID": 347488,
       "fileID": 3367067,
       "required": true
@@ -621,11 +607,6 @@
     {
       "projectID": 385435,
       "fileID": 3146906,
-      "required": true
-    },
-    {
-      "projectID": 74072,
-      "fileID": 3352983,
       "required": true
     },
     {
